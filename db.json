@@ -1,0 +1,28 @@
+{
+    "dishes": [
+        {
+            "id": 1,
+            "name": "Empanadas",
+            "origen": "Chile"
+        },
+        {
+            "id": 2,
+            "name": "Ceviche Reineta",
+            "origen": "Peru"
+        }
+    ],
+    "books": [
+        {
+            "id": 1,
+            "name": "el hombre en busca del sentido",
+            "autor": "Viktor Frankl",
+            "año": "1980"
+        },
+        {
+            "id": 2,
+            "name": "el hombre doliente",
+            "autor": "Viktor Frankl",
+            "año": "1980"
+        }
+    ]
+}
